@@ -1,1 +1,1 @@
-# Gujarati-Handwritten-Charcaters
+# Gujarati-Handwritten-Charcaters.
